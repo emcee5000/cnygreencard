@@ -1,0 +1,75 @@
+[02-Nov-2011 13:43:05] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ')' in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 81
+[02-Nov-2011 13:52:41] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:52:41] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:52:41] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 487
+[02-Nov-2011 13:52:41] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:52:41] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:52:41] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:52:41] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:52:41] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:52:41] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:52:48] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:52:48] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:52:48] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 487
+[02-Nov-2011 13:52:48] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:52:48] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:52:48] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:52:48] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:52:48] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:52:48] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:53:29] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:53:29] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:53:29] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 487
+[02-Nov-2011 13:53:29] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:53:29] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:53:29] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:53:29] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:53:29] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:53:29] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:54:05] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:54:05] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:54:05] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 487
+[02-Nov-2011 13:54:05] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:54:05] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:54:05] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:54:05] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:54:05] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:54:05] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:55:08] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:55:08] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:55:08] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 487
+[02-Nov-2011 13:55:08] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:55:08] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:55:08] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:55:08] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:55:08] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:55:08] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:55:23] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:55:23] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:55:23] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 487
+[02-Nov-2011 13:55:23] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:55:23] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:55:23] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:55:23] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:55:23] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:55:23] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:57:57] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:57:57] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 661
+[02-Nov-2011 13:57:57] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 487
+[02-Nov-2011 13:57:57] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:57:57] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:57:57] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[02-Nov-2011 13:57:57] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:57:57] PHP Warning:  array_intersect() [<a href='function.array-intersect'>function.array-intersect</a>]: Argument #1 is not an array in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-list-table.php on line 631
+[02-Nov-2011 13:57:57] PHP Warning:  Invalid argument supplied for foreach() in /home/mmclarke/public_html/greencard/wp-admin/includes/class-wp-posts-list-table.php on line 989
+[16-Nov-2011 22:26:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 248
+[16-Nov-2011 22:27:14] PHP Parse error:  syntax error, unexpected T_STRING in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 248
+[16-Nov-2011 22:27:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 248
+[16-Nov-2011 22:28:14] PHP Parse error:  syntax error, unexpected T_STRING in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 248
+[16-Nov-2011 22:28:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 248
+[16-Nov-2011 22:29:14] PHP Parse error:  syntax error, unexpected T_STRING in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 248
+[16-Nov-2011 22:29:37] PHP Parse error:  syntax error, unexpected T_STRING in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 248
+[16-Nov-2011 22:30:14] PHP Parse error:  syntax error, unexpected T_STRING in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 248
+[16-Nov-2011 22:30:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 248
+[22-Apr-2012 23:43:03 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 68
+[22-Apr-2012 23:43:03 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/mmclarke/public_html/greencard/wp-content/plugins/greencard/greencard.php on line 68

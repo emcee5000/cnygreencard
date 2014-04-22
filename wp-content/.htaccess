@@ -1,0 +1,5 @@
+Order deny,allow
+Deny from all
+<Files ~ ".(xml|css|jpeg|jpg|png|gif|js|pdf)$">
+Allow from all
+</Files>
